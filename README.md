@@ -27,10 +27,9 @@ I am a **Native AI Coder** who bridges the gap between imagination and implement
 
 ### 📊 GitHub Stats (Real-time)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheercheung&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cheercheung&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheercheung&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cheercheung&theme=radical" />
 </p>
-
 ---
 
 ### 🐍 My Contribution Journey
