@@ -34,21 +34,10 @@ I am a **Native AI Coder** who bridges the gap between imagination and implement
 ---
 
 ### 🐍 My Contribution Journey
-<p align="left">
-  <img src="https://img.shields.io/badge/-GPT--4o-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Claude_3.5_Sonnet-D19A66?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DeepSeek_V3-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cheercheung/cheercheung/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<p align="left">
-  <a href="https://x.com/cheeselflin" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@learnwithcheer" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.learnwithcheer.com" target="_blank"><img src="https://img.shields.io/badge/-Personal_Site-FF69B4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-</p>
-
----
-
-### 🌟 Featured Project
 ---
 
 ### 🌟 Featured Projects
