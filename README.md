@@ -36,8 +36,8 @@ I am a **Native AI Coder** who bridges the gap between imagination and implement
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Moltbook Usecases](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)** | 🚀 基于 OpenClaw 的 moltbook 深度使用案例集，展示 API 聚合的实战威力。 | `OpenClaw` `API Gateway` |
-| **[SeeDance 2 Guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)** | 💃 Seedance 2 完整指南，带你玩转 AI 视频生成与创作工作流。 | `AI Video` `Workflow` |
+| **[Moltbook Usecases](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)** | A deep-dive collection of Moltbook use cases powered by OpenClaw, demonstrating the full potential of API aggregation. | `OpenClaw` `API Gateway` |
+| **[SeeDance 2 Guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)** | The ultimate guide for SeeDance 2, mastering AI video generation and advanced creative workflows. | `AI Video` `Workflow` |
 
 <p align="right">
   <img src="https://img.shields.io/github/stars/EvoLinkAI/awesome-openclaw-usecases-moltbook?style=flat-square&label=Moltbook%20Stars&color=yellow" />
