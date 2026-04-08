@@ -20,7 +20,7 @@ I am a **Native AI Coder** who bridges the gap between imagination and implement
  
   <a href="https://x.com/cheeselflin"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@learnwithcheer" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.learnwithcheer.com"><img src="https://img.shields.io/badge/-Personal_Site-FF69B4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://learnwithcheer.com/"><img src="https://img.shields.io/badge/-Personal_Site-FF69B4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
