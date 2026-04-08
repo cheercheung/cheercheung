@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Cheer Cheung | Native AI Coder
+# 👋 Hello, I'm Cheer Cheung
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Native+AI+Coder+%7C+No+Code+Background;AI+Influencer+on+TikTok;CMO+of+EvoLinkAI;Building+Products+with+LLMs" alt="Typing SVG" />
