@@ -27,22 +27,38 @@ I am a **Native AI Coder** who bridges the gap between imagination and implement
 
 ### 📊 GitHub Stats (Real-time)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheercheung&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cheercheung&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheercheung&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cheercheung&theme=react" />
 </p>
 
 ---
 
 ### 🐍 My Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cheercheung/cheercheung/output/github-contribution-grid-snake.svg" alt="snake" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-GPT--4o-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Claude_3.5_Sonnet-D19A66?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DeepSeek_V3-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+</p>
+
+<p align="left">
+  <a href="https://x.com/cheeselflin" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@learnwithcheer" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.learnwithcheer.com" target="_blank"><img src="https://img.shields.io/badge/-Personal_Site-FF69B4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🌟 Featured Project
-**[OpenClaw-Image-Generator](https://github.com/cheercheung/OpenClaw-Image-Generator)** *A Claude Code skill for generating images via the Evolink Z-Image-Turbo API. Cross-platform, zero dependencies.*
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Moltbook Usecases](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)** | 🚀 基于 OpenClaw 的 moltbook 深度使用案例集，展示 API 聚合的实战威力。 | `OpenClaw` `API Gateway` |
+| **[SeeDance 2 Guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)** | 💃 Seedance 2 完整指南，带你玩转 AI 视频生成与创作工作流。 | `AI Video` `Workflow` |
 
 <p align="right">
-  <img src="https://img.shields.io/github/stars/cheercheung/OpenClaw-Image-Generator?style=social" />
+  <img src="https://img.shields.io/github/stars/EvoLinkAI/awesome-openclaw-usecases-moltbook?style=flat-square&label=Moltbook%20Stars&color=yellow" />
+  <img src="https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2-guide?style=flat-square&label=SeeDance%20Stars&color=yellow" />
 </p>
